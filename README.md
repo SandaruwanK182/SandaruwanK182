@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on [Modern Gura](https://github.com/noobconner21/PastPaper-Website-SriLanka)
 
-- 🌱 I’m currently learning **Python, Java**
+- 🌱 I’m currently learning **Python, Java,Spring Boot,FastApi**
 
 - 📫 How to reach me **sandaruwank182@gmail.com**
 
-- ⚡ Fun fact **call me SK**
+- ⚡ Fun fact **call me Sanda**
 
 <br><br><br><br><br><br><br><br>
 
